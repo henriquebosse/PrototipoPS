@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "iCodProduto": 1,
+      "sNomeProduto": "PROTETOR SOLAR FACIAL EPISOL COLOR PELE CLARA FPS70",
+      "sDescricaoProduto": "PROTETOR SOLAR FACIAL",
+      "fPrecoVenda": 81.90,
+      "sCodAnvisa": ""
+    },
+    {
+      "iCodProduto": 2,
+      "sNomeProduto": "GENACOL 400MG",
+      "sDescricaoProduto": "COLÁGENO COMPOSTO POR AMINOÁCIDOS",
+      "fPrecoVenda": 125.90,      
+      "sCodAnvisa": ""      
+    },
+    {
+      "iCodProduto": 3,
+      "sNomeProduto": "ESTIMULADOR NEUROMUSCULAR TANYX",
+      "sDescricaoProduto": "ADESIVO ELETRÔNICO",      
+      "fPrecoVenda": 112.99,      
+      "sCodAnvisa": "ENT185498"      
+    },
+    {
+      "iCodProduto": 4,
+      "sNomeProduto": "ESTOMAZIL SABOR GUARANÁ",
+      "sDescricaoProduto": "TRATAMENTO DE ACIDEZ ESTOMACAL",
+      "fPrecoVenda": 2.64,      
+      "sCodAnvisa": ""      
+    },
+    {
+      "iCodProduto": 5,
+      "sNomeProduto": "NIQUITIN 21 MG",
+      "sDescricaoProduto": "ADESIVO DE AUXILIO PARA PARAR DE FUMAR",
+      "fPrecoVenda": 86.07,      
+      "sCodAnvisa": "NIC259826"      
+    }
+  ]
+}
